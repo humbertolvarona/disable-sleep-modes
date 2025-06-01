@@ -1,10 +1,3 @@
-¡Claro! Aquí tienes la **versión traducida al inglés** del archivo `README.md`:
-
----
-
-## 📄 `README.md` (Inglés)
-
-```markdown
 # Sleep Mode Disabler for Debian 12
 
 This script is designed to **disable sleep, suspend, hibernate, and similar power-saving modes** on **Debian 12 systems**, especially useful for servers that need to remain active 24/7.
