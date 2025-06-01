@@ -69,10 +69,4 @@ Do you have questions? Need it adapted to another Linux distribution? Feel free 
 ## 📜 License
 
 This project is under the MIT License. You can use, modify, and distribute it freely.
-```
 
----
-
-Este archivo está listo para incluirse en un repositorio público o compartir junto con el script para usuarios internacionales.
-
-¿Te gustaría que prepare también un archivo `.gitignore`, `LICENSE`, o empaquete todo en un ZIP listo para descargar? ¡Dímelo y te ayudo!
